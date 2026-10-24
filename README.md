@@ -1,16 +1,17 @@
-# ADEL Recon Tool 🛡️
-أداة استطلاع أخلاقي صنعها عادل
+# 🛡️ ADEL Recon Tool V1 - Ethical-Lab
 
-## الأدوات
-- `scanner.py` : فحص البورتات المحلية
+![Python](https://img.shields.io/badge/Python-100%25-blue)
+![Ethical](https://img.shields.io/badge/Use-Ethical%20Only-green)
+![Made by Adel](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Adel-red)
+
+> أداة استطلاع أخلاقي صنعها عادل - للتعلم وفحص المواقع المسموح بها فقط
+
+### 🔧 الأدوات
+- `scanner.py` : فحص البورتات المفتوحة
 - `header.py` / `header2.py` : كشف نوع السيرفر
 - `whois.py` : كشف معلومات الدومين
 - `adel-recon.py` : التقرير الكامل
 
-## طريقة التشغيل
+### 🚀 طريقة التشغيل
+```bash
 python adel-recon.py
-
-## تنبيه أخلاقي
-الأداة للتعلم وفحص جهازك ومواقع مسموحة فقط مثل google.com و scanme.nmap.org
-
-Made with ❤️ by Adel
